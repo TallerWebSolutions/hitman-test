@@ -1,0 +1,8 @@
+{
+  "name": "gugodoi",
+  "version": "1.0.0",
+  "description": "Hitman test",
+  "main": "index.js",
+  "author": "Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
+  "license": "MIT"
+}
